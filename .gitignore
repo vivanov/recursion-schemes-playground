@@ -1,0 +1,31 @@
+## Emacs
+*~
+\#*\#
+
+## SBT
+target
+project/project
+
+## IDEA
+.idea
+*.iml
+
+## Metals
+.bsp/**
+.bloop/**
+.jvmopts
+.metals/**
+.sbtopts
+project/.bloop/**
+project/metals.sbt
+
+## Metals VSCode
+.classpath
+.project
+.settings/**
+.vscode
+
+.DS_Store
+.envrc
+
+*.class
